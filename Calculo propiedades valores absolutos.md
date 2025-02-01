@@ -9,5 +9,4 @@ $|a - b| \leq |a| - |b|$
 $|a^n| = |a|^n$
 
 
-bruh wtf are u talking about
-
+mama im chasing a ghost idk who he is 
