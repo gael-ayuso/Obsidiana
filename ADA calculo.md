@@ -103,8 +103,3 @@ $\mathbb{R}$ - subconjunto
 $(\mathbb{R},{+})$  $(\mathbb{R},\cdot)$ 
 
 La longitud, area y volumen siempre son numeros positivos 
-
-asdadasdasdasd lil niggaadadaasdasdas
-
-
-asdasd

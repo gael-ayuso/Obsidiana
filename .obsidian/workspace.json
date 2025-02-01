@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase 27 de enero 2025 programacion estructurada.md",
+                "file": "C Cheatesheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 27 de enero 2025 programacion estructurada"
+              "title": "C Cheatesheet"
             }
           }
         ]
@@ -178,14 +178,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dee968bd9632d89b",
+  "active": "14872fa67c997561",
   "lastOpenFiles": [
-    "Clase 20 de enero del 2025.md",
-    "Calculo propiedades valores absolutos.md",
-    "conflict-files-obsidian-git.md",
     "ADA calculo.md",
+    "C Cheatesheet.md",
+    "Calculo propiedades valores absolutos.md",
+    "Clase 20 de enero del 2025.md",
+    "Clase 27 de enero 2025 programacion estructurada.md",
+    "Pasted image 20250119144235.png",
     "Lista de símbolos calculo.md",
+    "Ejercicios calculo 24 de enero 2025.md",
     "Clase del 20 de enero del 2025.md",
-    "C Cheatesheet.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

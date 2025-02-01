@@ -8,5 +8,3 @@ $|a + b| \leq |a| + |b|$
 $|a - b| \leq |a| - |b|$
 $|a^n| = |a|^n$
 
-
-mama im chasing a ghost idk who he is 

@@ -47,6 +47,4 @@ Tesis: $(a+b)^2 = a^2 + 2ab+ b^2$
 | $\sin(2x) + 1$                             | Aplicamos identidad trigonometrica de angulos dobles $\sin(2x) = 2(\sin x)(\cos x)$ |
 
 
-
-
 La prueba donde nos piden elementos unicos, la primera es existencia y la segunda es unicidad. La existencia se demuestra dando un candidato y demostrando la propiedad, y la existencia se demuestra dando dos elementos que cumplen la propiedad y demostrando que son iguales.
