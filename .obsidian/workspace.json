@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lista de símbolos calculo.md",
+                "file": "Calculo propiedades valores absolutos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lista de símbolos calculo"
+              "title": "Calculo propiedades valores absolutos"
             }
           }
         ]
@@ -89,12 +89,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39f18298d204ea17",
+            "id": "14872fa67c997561",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "3dbe2aca218dc35c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lista de símbolos calculo.md",
+                "file": "Calculo propiedades valores absolutos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lista de símbolos calculo"
+              "title": "Backlinks for Calculo propiedades valores absolutos"
             }
           },
           {
-            "id": "2c53024dc2902f36",
+            "id": "afbb91ec31a57df3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lista de símbolos calculo.md",
+                "file": "Calculo propiedades valores absolutos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lista de símbolos calculo"
+              "title": "Outgoing links from Calculo propiedades valores absolutos"
             }
           },
           {
-            "id": "015a553d4762fb40",
+            "id": "ee3d85b1dc1aecfe",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,36 +147,26 @@
             }
           },
           {
-            "id": "5cc90371026c970c",
+            "id": "b2c0c30b54ab7493",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lista de símbolos calculo.md",
+                "file": "Calculo propiedades valores absolutos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lista de símbolos calculo"
-            }
-          },
-          {
-            "id": "14872fa67c997561",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Calculo propiedades valores absolutos"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +181,9 @@
   },
   "active": "dee968bd9632d89b",
   "lastOpenFiles": [
+    "ADA calculo.md",
+    "Lista de símbolos calculo.md",
     "Clase del 20 de enero del 2025.md",
-    "C Cheatesheet.md",
-    "ADA calculo.md"
+    "C Cheatesheet.md"
   ]
 }
