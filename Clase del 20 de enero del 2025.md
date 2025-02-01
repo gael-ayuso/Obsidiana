@@ -10,5 +10,5 @@ Demostrar los siguiente $a,b,c \in \mathbb{R}$
 |                                             |                                |
 |                                             |                                |
 
-Demostrar 
+Demostrar asdasdad
 $(a+b)+(-(b+c))$ 

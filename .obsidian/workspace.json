@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADA calculo.md",
+                "file": "Lista de símbolos calculo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADA calculo"
+              "title": "Lista de símbolos calculo"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADA calculo.md",
+                "file": "Lista de símbolos calculo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ADA calculo"
+              "title": "Backlinks for Lista de símbolos calculo"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADA calculo.md",
+                "file": "Lista de símbolos calculo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ADA calculo"
+              "title": "Outgoing links from Lista de símbolos calculo"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADA calculo.md",
+                "file": "Lista de símbolos calculo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ADA calculo"
+              "title": "Outline of Lista de símbolos calculo"
             }
           },
           {
@@ -181,6 +181,8 @@
   },
   "active": "dee968bd9632d89b",
   "lastOpenFiles": [
-    "C Cheatesheet.md"
+    "Clase del 20 de enero del 2025.md",
+    "C Cheatesheet.md",
+    "ADA calculo.md"
   ]
 }
