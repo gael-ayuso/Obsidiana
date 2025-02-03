@@ -1,4 +1,6 @@
 
+negro nigga
+
 [[Lista de símbolos calculo]]
 
 ![[Pasted image 20250119144235.png]]
