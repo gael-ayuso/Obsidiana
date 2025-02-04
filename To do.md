@@ -9,4 +9,4 @@
  - [ ] Calculo Estudiar
  - [ ] Alegebra estudiar
  - [ ] Matematicas discretas hacer ejercicios y practicar el mapa de karnough
- - [ ] Configurar kde 
+ - [x] Configurar kde 
