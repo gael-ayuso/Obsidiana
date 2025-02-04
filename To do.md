@@ -5,7 +5,7 @@
  - [x] Hacer Cultura maya cuestionario
  - [x] Hacer un algoritmo que invierte números (Programacion estructurada)
  - [ ] Hacer ejercicio 7 programacion
- - [ ] Ejercicios programacion Estructurada (Raiz)
+ - [x] Ejercicios programacion Estructurada (Raiz)
  - [ ] Calculo Estudiar
  - [ ] Alegebra estudiar
  - [ ] Matematicas discretas hacer ejercicios y practicar el mapa de karnough
