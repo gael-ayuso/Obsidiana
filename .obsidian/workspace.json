@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do.md",
+                "file": "ADA calculo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To do"
+              "title": "ADA calculo"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "34b091cabf20953a",
@@ -157,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To do.md",
+                "file": "ADA calculo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To do"
+              "title": "Outline of ADA calculo"
             }
           },
           {
@@ -177,11 +178,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,6 +198,7 @@
   },
   "active": "beba7da4bfd18f3b",
   "lastOpenFiles": [
+    "To do.md",
     "C Cheatesheet.md",
     "ADA calculo.md",
     "Calculo propiedades valores absolutos.md",
@@ -205,7 +207,6 @@
     "Ejercicios calculo 24 de enero 2025.md",
     "Clase del 20 de enero del 2025.md",
     "Lista de símbolos calculo.md",
-    "Pasted image 20250119144235.png",
-    "To do.md"
+    "Pasted image 20250119144235.png"
   ]
 }
