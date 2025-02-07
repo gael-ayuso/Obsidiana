@@ -6,4 +6,3 @@ Una función **f** es una regla que a todo valor numérico **x** dentro de un co
 - **Definicion grafica de la funcion**
 La gráfica de una función es el conjunto de puntos en el plano de la forma _(x,y)_ en donde _x_ está en el dominio de la función y además _y=f(x)._
 
-idk
