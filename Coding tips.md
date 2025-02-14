@@ -14,5 +14,6 @@
 ## Vim keybinds
 
 **h** - move cursor left
-**j** - move cursor right
-**k**
+**j** - move cursor down
+**k** - move cursor up
+**l** - move cursor right
