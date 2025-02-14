@@ -15,3 +15,4 @@
 
 **h** - move cursor left
 **j** - move cursor right
+**k**
