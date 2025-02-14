@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding tips.md",
+                "file": "To do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coding tips"
+              "title": "To do"
             }
           }
         ],
@@ -225,8 +225,8 @@
   },
   "active": "7fbca50295b7ec15",
   "lastOpenFiles": [
-    "Investigacion Calculo.md",
     "Coding tips.md",
+    "Investigacion Calculo.md",
     "C-projects/rangoDeNumeroImpare.c",
     "C-projects/output/rangoDeNumeroImpare.exe",
     "C-projects/output/condicional.exe",

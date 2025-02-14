@@ -10,3 +10,4 @@
  - [ ] Alegebra estudiar
  - [ ] Matematicas discretas hacer ejercicios y practicar el mapa de karnough
  - [x] Configurar kde 
+ - [ ] investigar para que sirven las funciones hiperbolicas 
