@@ -4,7 +4,7 @@
 - TitleCase
 - camelCase (Kotlin)
 - snake_casekebab-case
-- UPPER_SNAKE_CASE (Constants on kotlin ad)
+- UPPER_SNAKE_CASE (Constants on kotlin and C)
 - UPPER-KEBAB-CASE
 - Title_Snake_Case
 - Title-Kebab-Case
