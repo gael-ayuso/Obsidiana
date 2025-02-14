@@ -11,4 +11,6 @@
 - camel_Snake_Case
 - camel-Kebab-Case
 
-adasd
+## Vim keybinds
+
+**h** - move cursor left

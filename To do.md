@@ -1,4 +1,4 @@
-	 - [x] Hacer ejercicios de algebra libro 1.
+ - [x] Hacer ejercicios de algebra libro 1.
  - [x] Estudiar calculo y hacer ejercicios teorema 18, 20 y 21
  - [x] Unidad 1 ejercicios 4, 5,6,7 Programacion
  - [x] Hacer [[Ejercicios calculo 24 de enero 2025]]
