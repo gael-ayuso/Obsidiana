@@ -4,12 +4,14 @@
  - [x] Hacer [[Ejercicios calculo 24 de enero 2025]]
  - [x] Hacer Cultura maya cuestionario
  - [x] Hacer un algoritmo que invierte números (Programacion estructurada)
- - [ ] Hacer ejercicio 7 programacion
+ - [x] Hacer ejercicio 7 programacion
  - [x] Ejercicios programacion Estructurada (Raiz)
- - [ ] Calculo Estudiar
- - [ ] Alegebra estudiar
- - [ ] Matematicas discretas hacer ejercicios y practicar el mapa de karnough
+ - [x] Calculo Estudiar
+ - [x] Alegebra estudiar
+ - [x] Matematicas discretas hacer ejercicios y practicar el mapa de karnough
  - [x] Configurar kde 
  - [ ] investigar para que sirven las funciones hiperbolicas
  - [ ] hacer esto ![[Pasted image 20250214131442.png]]
+ - [ ] hacer ada 1 calculo (Teams)
+ - [ ] Hacer practica de programacion matematicas discretas
  - [ ] 
