@@ -192,8 +192,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "beba7da4bfd18f3b",
