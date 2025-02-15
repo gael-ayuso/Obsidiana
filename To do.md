@@ -1,4 +1,4 @@
-	 - [x] Hacer ejercicios de algebra libro 1.
+ - [x] Hacer ejercicios de algebra libro 1.
  - [x] Estudiar calculo y hacer ejercicios teorema 18, 20 y 21
  - [x] Unidad 1 ejercicios 4, 5,6,7 Programacion
  - [x] Hacer [[Ejercicios calculo 24 de enero 2025]]
@@ -10,4 +10,6 @@
  - [ ] Alegebra estudiar
  - [ ] Matematicas discretas hacer ejercicios y practicar el mapa de karnough
  - [x] Configurar kde 
-- [ ] bruh
+ - [ ] investigar para que sirven las funciones hiperbolicas
+ - [ ] hacer esto ![[Pasted image 20250214131442.png]]
+ - [ ] 
