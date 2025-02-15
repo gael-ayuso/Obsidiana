@@ -14,4 +14,5 @@
  - [ ] hacer esto ![[Pasted image 20250214131442.png]]
  - [ ] hacer ada 1 calculo (Teams)
  - [ ] Hacer practica de programacion matematicas discretas
+ - [ ] algebra hacer apuntes 
  - [ ] 
