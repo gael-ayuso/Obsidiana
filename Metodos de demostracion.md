@@ -1,2 +1,3 @@
 - **Demostracion directa**: 
-- **Demostracion por contraejemplo**
+- **Demostracion por contrareciproca**:
+- **Demostracion  por contradiccion**: 
