@@ -1,0 +1,2 @@
+- **Demostracion directa**: 
+- **Demostracion por contraejemplo**
