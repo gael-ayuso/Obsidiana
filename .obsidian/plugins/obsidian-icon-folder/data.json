@@ -6,9 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSheet",
+      "LiCalculator",
+      "LiCode",
       "LiImage",
-      "LiAward",
-      "LiAlarmClock"
+      "LiAward"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +36,8 @@
   },
   "To do.md": "LiAlarmClock",
   "Coding tips.md": "LiAward",
-  "Imagenes": "LiImage"
+  "Imagenes": "LiImage",
+  "Programacion Estructurada": "LiCode",
+  "Calculo": "LiCalculator",
+  "Algebra Superior": "LiSheet"
 }

@@ -8,75 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dee968bd9632d89b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ADA calculo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ADA calculo"
-            }
-          },
-          {
-            "id": "beba7da4bfd18f3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lista de símbolos calculo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lista de símbolos calculo"
-            }
-          },
-          {
-            "id": "b5f1920a97f55d3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Investigacion Calculo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Investigacion Calculo"
-            }
-          },
-          {
             "id": "7fbca50295b7ec15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding tips.md",
+                "file": "To do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coding tips"
+              "title": "To do"
             }
           },
           {
             "id": "d3e3d4e71d17d46d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imagenes/Pasted image 20250119144235.png"
+                "file": "Calculo/Investigacion calculo febrero.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250119144235"
+              "icon": "lucide-file",
+              "title": "Investigacion calculo febrero"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,14 +196,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e31d2c30f7a963a7",
+  "active": "d3e3d4e71d17d46d",
   "lastOpenFiles": [
-    "Imagenes",
     "To do.md",
-    "Imagenes/Pasted image 20250214131442.png",
-    "Imagenes/Pasted image 20250119144235.png",
-    "Coding tips.md",
     "Calculo/Investigacion calculo febrero.md",
+    "Coding tips.md",
+    "Programacion Estructurada/C Cheatesheet.md",
+    "Imagenes/Pasted image 20250119144235.png",
+    "Calculo/Untitled.md",
+    "Imagenes",
+    "Imagenes/Pasted image 20250214131442.png",
     "Algebra Superior/Metodos de demostracion.md",
     "Calculo/Clase del 20 de enero del 2025.md",
     "Programacion Estructurada",
@@ -260,9 +222,7 @@
     "C-projects/output/Programacion_estructurada.exe",
     "C-projects/output/ParImpar.exe",
     "C-projects/output/Mayor.exe",
-    "C-projects/output/ADa02_peso.exe",
     "Calculo/ADA calculo.md",
-    "Programacion Estructurada/C Cheatesheet.md",
     "Calculo/Calculo propiedades valores absolutos.md"
   ]
 }
