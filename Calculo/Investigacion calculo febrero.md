@@ -6,4 +6,5 @@ Ciertas combinaciones pares e impares de las funciones exponenciales e x y ex s
 - $y = \left( \frac{1}{c} \right ) \cdot f(x)$, comprimase la grafica de $y = f(x)$ verticalmente en un factor de $c$ 
 - $y = f(cx)$, comprimase la grafica de $y = f(x)$ horizontalmente en un factor de $c$
 - $y = f \cdot\left( \frac{x}{c} \right)$, alarguese la grafica de $y = f(x)$ horizontalmente en un factor de $c$
-- $y = -f(x)$, reflejese la grafica de $y = f(x)$ respe
+- $y = -f(x)$, reflejese la grafica de $y = f(x)$ respecto al eje $x$
+- $y = f(-x)$, reflejese la grafica de $y = f(x)$ respecto al eje $y$
