@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "34b091cabf20953a",
@@ -241,11 +240,19 @@
   },
   "active": "d3e3d4e71d17d46d",
   "lastOpenFiles": [
-    "Investigacion Calculo.md",
+    "Investigacion calculo febrero.md",
+    "Pasted image 20250214131442.png",
+    "Pasted image 20250119144235.png",
+    "Calculo/Lista de símbolos calculo.md",
+    "Calculo/Investigacion Calculo.md",
+    "Calculo/Ejercicios calculo 24 de enero 2025.md",
+    "Coding tips.md",
+    "Clase del 20 de enero del 2025.md",
+    "Clase 20 de enero del 2025.md",
+    "Clase 27 de enero 2025 programacion estructurada.md",
+    "Calculo",
     "To do.md",
     "Metodos de demostracion.md",
-    "Coding tips.md",
-    "Pasted image 20250214131442.png",
     "C-projects/rangoDeNumeroImpare.c",
     "C-projects/output/rangoDeNumeroImpare.exe",
     "C-projects/output/condicional.exe",
@@ -255,15 +262,8 @@
     "C-projects/output/ADa02_peso.exe",
     "C-projects/output/ADA02_sucesion.exe",
     "C-projects/output",
-    "C-projects/Pruebas/output/sumaPorcentaje.exe",
-    "Lista de símbolos calculo.md",
-    "ADA calculo.md",
+    "Calculo/ADA calculo.md",
     "C Cheatesheet.md",
-    "Calculo propiedades valores absolutos.md",
-    "Clase 20 de enero del 2025.md",
-    "Clase 27 de enero 2025 programacion estructurada.md",
-    "Ejercicios calculo 24 de enero 2025.md",
-    "Clase del 20 de enero del 2025.md",
-    "Pasted image 20250119144235.png"
+    "Calculo/Calculo propiedades valores absolutos.md"
   ]
 }
