@@ -35,8 +35,7 @@
               "title": "Investigacion calculo febrero"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +195,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3e3d4e71d17d46d",
+  "active": "7fbca50295b7ec15",
   "lastOpenFiles": [
-    "To do.md",
     "Calculo/Investigacion calculo febrero.md",
+    "To do.md",
     "Coding tips.md",
     "Programacion Estructurada/C Cheatesheet.md",
     "Imagenes/Pasted image 20250119144235.png",
