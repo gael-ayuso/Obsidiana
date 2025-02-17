@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a84c6efc1eaaa2c7",
+        "id": "62413f5fb5fe5953",
         "type": "tabs",
         "children": [
           {
@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "To do"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "a84c6efc1eaaa2c7",
+        "type": "tabs",
+        "children": [
           {
             "id": "d3e3d4e71d17d46d",
             "type": "leaf",
@@ -195,10 +201,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7fbca50295b7ec15",
+  "active": "d3e3d4e71d17d46d",
   "lastOpenFiles": [
-    "Calculo/Investigacion calculo febrero.md",
     "To do.md",
+    "Calculo/Investigacion calculo febrero.md",
     "Coding tips.md",
     "Programacion Estructurada/C Cheatesheet.md",
     "Imagenes/Pasted image 20250119144235.png",
