@@ -67,14 +67,12 @@
             "id": "d3e3d4e71d17d46d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Metodos de demostracion.md",
-                "mode": "source",
-                "source": false
+                "file": "Imagenes/Pasted image 20250119144235.png"
               },
-              "icon": "lucide-file",
-              "title": "Metodos de demostracion"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250119144235"
             }
           }
         ],
@@ -238,21 +236,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3e3d4e71d17d46d",
+  "active": "e31d2c30f7a963a7",
   "lastOpenFiles": [
-    "Investigacion calculo febrero.md",
-    "Pasted image 20250214131442.png",
-    "Pasted image 20250119144235.png",
+    "Imagenes",
+    "To do.md",
+    "Imagenes/Pasted image 20250214131442.png",
+    "Imagenes/Pasted image 20250119144235.png",
+    "Coding tips.md",
+    "Calculo/Investigacion calculo febrero.md",
+    "Algebra Superior/Metodos de demostracion.md",
+    "Calculo/Clase del 20 de enero del 2025.md",
+    "Programacion Estructurada",
+    "Algebra Superior",
     "Calculo/Lista de símbolos calculo.md",
     "Calculo/Investigacion Calculo.md",
     "Calculo/Ejercicios calculo 24 de enero 2025.md",
-    "Coding tips.md",
-    "Clase del 20 de enero del 2025.md",
     "Clase 20 de enero del 2025.md",
     "Clase 27 de enero 2025 programacion estructurada.md",
     "Calculo",
-    "To do.md",
-    "Metodos de demostracion.md",
     "C-projects/rangoDeNumeroImpare.c",
     "C-projects/output/rangoDeNumeroImpare.exe",
     "C-projects/output/condicional.exe",
@@ -260,10 +261,8 @@
     "C-projects/output/ParImpar.exe",
     "C-projects/output/Mayor.exe",
     "C-projects/output/ADa02_peso.exe",
-    "C-projects/output/ADA02_sucesion.exe",
-    "C-projects/output",
     "Calculo/ADA calculo.md",
-    "C Cheatesheet.md",
+    "Programacion Estructurada/C Cheatesheet.md",
     "Calculo/Calculo propiedades valores absolutos.md"
   ]
 }

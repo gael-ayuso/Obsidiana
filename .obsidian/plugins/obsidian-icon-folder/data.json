@@ -5,7 +5,11 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiImage",
+      "LiAward",
+      "LiAlarmClock"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +31,8 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "To do.md": "LiAlarmClock",
+  "Coding tips.md": "LiAward",
+  "Imagenes": "LiImage"
 }
