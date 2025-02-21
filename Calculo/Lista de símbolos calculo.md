@@ -6,7 +6,7 @@
 |       ≠       |               No es igual                |                                                                                                        |
 |       ⇒       |              Si .. entonces              |       Si A es verdadero entonces B es verdadero; Si A es falso entonces no se dice nada sobre B.       |
 |       ⇔       |               Si y solo si               |                      A es verdadera si B es verdadera; A es falsa si B es falsa.                       |
-|       ∧       |                 Y (AND)                  |                          La preposición es verdadera si A y B son verdaderas.                          |
+|       2       |                 Y (AND)                  |                          La preposición es verdadera si A y B son verdaderas.                          |
 |       ∨       |                  O (OR)                  |   Si A o B son verdaderas (pueden ser ambas), la preposición es verdadera; de otra manera es falsa.    |
 |       ¬       |              Negacion(NOT)               |                                  ¬A es verdadera solo si A es falsa.                                   |
 |       ∀       |      Para todo elemento se cumple p      |                                   P es verdadera para cualquier $x$.                                   |
