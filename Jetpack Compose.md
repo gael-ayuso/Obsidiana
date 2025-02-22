@@ -2,6 +2,9 @@
 - Scaffold
 	- Barras de la app
 	- Se le puede anadir un comportamiento de desplazamiento a la barra cuando el usuario se desplaza con por el contenido
+	- enterAlwaysScrollBehavior
+	- exitUntilCollapsedScrollBehavior
+	- pinnedScrollBehavior
 	1.  topBar
 		- Tipos de topBar
 		1. TopAppBar(Pequqno)
