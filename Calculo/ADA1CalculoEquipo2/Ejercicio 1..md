@@ -2,4 +2,6 @@
 
 **Enunciado del problema**: Simplificar la expresion dada, estos es, escribiendo el resultado con exponentes positivos. Justificar cada paso, con las propiedades de los numeros reales que se han estudiado.
 
-$\frac{}{}$
+$\left( \frac{4x^{-2}}{9x^{2}} \right)^{\frac{-1}{2}} \div \left( \frac{8x^{3}}{27y^{3}} \right)^{\frac{-1}{3}}$
+
+
