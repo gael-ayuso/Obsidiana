@@ -18,4 +18,5 @@ $\left( \frac{1}{4x^{2}} \right)^{\frac{-1}{2}} \div \left( \frac{8x^{3}}{27y^{3
 
 Aplicamos nuevamente el inverso multiplicativo a ambos lados
 
-$\frac{1}{\frac{1}{4x}}$
+$\frac{1}{\left( \frac{1}{4x^{2}} \right)^{\frac{1}{2}}} \div \frac{1}{\left( \frac{8x^{3}}{27y^{2}} \right)^{\frac{1}{3}}}$ 
+
