@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jetpack Compose.md",
+                "file": "Calculo/ADA1CalculoEquipo2/Ejercicio 1..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jetpack Compose"
+              "title": "Ejercicio 1."
             }
           }
         ],
@@ -197,10 +197,15 @@
   },
   "active": "62e4bd5d67b11263",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Calculo/ADA1CalculoEquipo2/Ejercicio 1..md",
+    "Calculo/ADA calculo.md",
+    "Calculo/ADA1CalculoEquipo2",
+    "Jetpack Compose.md",
+    "Calculo/Untitled.md",
     "Pasted image 20250216210943.png",
     "Pasted image 20250216210854.png",
     "Pasted image 20250216210727.png",
-    "Jetpack Compose.md",
     "Calculo/Lista de símbolos calculo.md",
     "To do.md",
     "Calculo/Investigacion calculo febrero.md",
@@ -212,7 +217,6 @@
     "Coding tips.md",
     "Programacion Estructurada/C Cheatesheet.md",
     "Imagenes/Pasted image 20250119144235.png",
-    "Calculo/Untitled.md",
     "Imagenes",
     "Imagenes/Pasted image 20250214131442.png",
     "Algebra Superior/Metodos de demostracion.md",
@@ -229,8 +233,6 @@
     "C-projects/output/condicional.exe",
     "C-projects/output/Programacion_estructurada.exe",
     "C-projects/output/ParImpar.exe",
-    "C-projects/output/Mayor.exe",
-    "Calculo/ADA calculo.md",
     "Calculo/Calculo propiedades valores absolutos.md"
   ]
 }
