@@ -1,5 +1,4 @@
 
-
 **Enunciado del problema**: Simplificar la expresión dada, estos es, escribiendo el resultado con exponentes positivos. Justificar cada paso, con las propiedades de los números reales que se han estudiado.
 
 **Datos con el que cuenta el problema**
