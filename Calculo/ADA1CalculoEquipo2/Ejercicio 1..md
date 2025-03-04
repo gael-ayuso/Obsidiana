@@ -25,7 +25,7 @@ $\frac{1}{\left( \frac{\frac{\sqrt{ 1 }}{\sqrt{4x^{2}}}}{\sqrt{9x^2}}\right)}\di
 
 Operamos
 
-$\frac{1}{\left( \frac{\frac{1}{\sqrt{2x}{3x}\right)}$
+$\frac{1}{\left( \frac{\frac{1}{2x}}{3x}\right)} \div \frac{1}{\left( \frac{2x}{9y} \right)}$
 
 Podemos definir 1 como  $\frac{1}{1}$
 
