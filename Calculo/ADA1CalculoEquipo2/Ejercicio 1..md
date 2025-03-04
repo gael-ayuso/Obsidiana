@@ -36,6 +36,10 @@ Aplicamos la siguiente propiedad de la division
 
 $Si \\\ a\neq 0,c \neq 0, d \neq 0 \\\ entonces \frac{\frac{a}{b}}{\frac{c}{d}} = \frac{ad}{bc}$
 
+$\frac{2x \cdot 1}{1 \cdot 1} \div \frac{9y \cdot 1}{2x \cdot 1}$
+
+Aplicamos el neutro multiplicativo
+
 $\frac{2x}{1} \div \frac{9y}{2x}$
 
 Reescribimos $\frac{2x}{1} \div \frac{9y}{2x}$ como $\frac{\frac{2x}{1}}{\frac{9y}{2x}}$
@@ -44,4 +48,8 @@ Aplicamos nuevamente la propiedad de la division
 
 $Si \\\ a\neq 0,c \neq 0, d \neq 0 \\\ entonces \frac{\frac{a}{b}}{\frac{c}{d}} = \frac{ad}{bc}$
 
-$\frac{2x \cdot 2x}{}$
+$\frac{2x \cdot 2x}{1 \cdot 9y}$
+
+Operamos
+
+$\frac{4x^2}{9y}$
