@@ -50,6 +50,14 @@ $Si \\\ a\neq 0,c \neq 0, d \neq 0 \\\ entonces \frac{\frac{a}{b}}{\frac{c}{d}} 
 
 $\frac{2x \cdot 2x}{1 \cdot 9y}$
 
-Operamos en el nu
+Aplicamos el neutro multiplicativo
+
+$\frac{2x \cdot 2x}{9y}$
+
+Operamos en el numerador
+
+$\frac{4x^2}{9y}$
+
+#### Resultado final 
 
 $\frac{4x^2}{9y}$
