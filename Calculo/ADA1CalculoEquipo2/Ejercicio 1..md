@@ -44,21 +44,21 @@ $\frac{1}{\left( \frac{\sqrt{ 4}}{\sqrt{ 9x^4 }} \right)}\div \frac{1}{\left( \f
 Operamos
 
 
-$\frac{1}{\left( \frac{2}{3x^2}\right)} \div \frac{1}{\left( \frac{2x}{9y} \right)}$
+$\frac{1}{\left( \frac{2}{3x^2}\right)} \div \frac{1}{\left( \frac{2x}{3y} \right)}$
 
 Podemos definir 1 como  $\frac{1}{1}$
 
-$\frac{\frac{1}{1}}{\frac{2}{3x^2}}\div \frac{\frac{1}{1}}{\frac{2x}{9y}}$
+$\frac{\frac{1}{1}}{\frac{2}{3x^2}}\div \frac{\frac{1}{1}}{\frac{2x}{3y}}$
 
 Aplicamos la siguiente propiedad de la division 
 
 $Si \\\ a\neq 0,c \neq 0, d \neq 0 \\\ entonces \frac{\frac{a}{b}}{\frac{c}{d}} = \frac{ad}{bc}$
 
-$\frac{3x^2 \cdot 1}{2 \cdot 1} \div \frac{9y \cdot 1}{2x \cdot 1}$
+$\frac{3x^2 \cdot 1}{2 \cdot 1} \div \frac{3y \cdot 1}{2x \cdot 1}$
 
 Aplicamos el neutro multiplicativo
 
-$\frac{3x^2}{2} \div \frac{9y}{2x}$
+$\frac{3x^2}{2} \div \frac{3y}{2x}$
 
 Reescribimos $\frac{2x}{1} \div \frac{9y}{2x}$ como $\frac{\frac{2x}{1}}{\frac{9y}{2x}}$
 
