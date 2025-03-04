@@ -28,4 +28,4 @@ Operamos
 
 $\frac{1}{\left( \frac{1}{2x} \right)}\div \frac{1}{\left( \frac{2x}{9y} \right)}$
 
-
+Aplicamos la siguiente propiedad de la division $$
