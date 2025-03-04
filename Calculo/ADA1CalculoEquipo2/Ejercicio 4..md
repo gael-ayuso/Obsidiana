@@ -45,3 +45,6 @@ Ahora bien podemos representar $c$ como $D(t)$ siendo esta la distancia entre lo
 
 $D(t) =\sqrt{ (650t)^2 + (490(t - 1))^2 }$
 
+En conclusion la función es valida para cualquier valor de $t \geq 0$
+
+$D(t) =\sqrt{ (650t)^2 + (490(t - 1))^2 }$ 
