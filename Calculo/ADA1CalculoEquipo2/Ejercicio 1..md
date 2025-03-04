@@ -17,7 +17,16 @@ $\left( \frac{\frac{4}{x^{2}}}{9x^2} \right)^{\frac{-1}{2}} \div \left( \frac{8x
 
 Definimos $9x^2$ como $\frac{9x^2}{1}$
 
-$\left( \frac{\frac{4}{x^{2}}}{\frac{9x^2}{}} \right)^{\frac{-1}{2}} \div \left( \frac{8x^{3}}{27y^{3}} \right)^{\frac{-1}{3}}$ 
+$\left( \frac{\frac{4}{x^{2}}}{\frac{9x^2}{1}} \right)^{\frac{-1}{2}} \div \left( \frac{8x^{3}}{27y^{3}} \right)^{\frac{-1}{3}}$ 
+
+Aplicamos la siguiente propiedad de la division 
+
+$Si \\\ a\neq 0,c \neq 0, d \neq 0 \\\ entonces \frac{\frac{a}{b}}{\frac{c}{d}} = \frac{ad}{bc}$
+
+$\left( \frac{4 \cdot 1}{9x^2 \cdot x^2} \right)^{\frac{-1}{2}} \div \left( \frac{8x^{3}}{27y^{3}} \right)^{\frac{-1}{3}}$ 
+
+Aplicamos el neutro multiplicativo
+$\left( \frac{4 \cdot 1}{9x^2 \cdot x^2} \right)^{\frac{-1}{2}} \div \left( \frac{8x^{3}}{27y^{3}} \right)^{\frac{-1}{3}}$ 
 
 Aplicamos nuevamente el inverso multiplicativo a ambos lados
 
