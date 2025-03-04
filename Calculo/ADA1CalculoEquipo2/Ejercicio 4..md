@@ -4,11 +4,11 @@ Partiendo al medio día, el aeroplano _A_ vuela hacia el norte a la velocidad co
 
 Sabemos por el enunciado que el aeroplano _A_ recorre 650 km en una hora. Por lo que podemos representar la distancia recorrida del aeroplano de la siguiente manera:
 
-$D(t) = 650t \\\ siendo \\\ t \\\ horas$
+$D_{A}(t) = 650t \\\ siendo \\\ t \geq 0$
 
 Ahora por el otro lado sabemos que el aeroplano _B_ recorre 490 km en un hora, sin embargo, este aeroplano despega una hora después del _A_, por lo tanto la formula que representa su distancia recorrida.
 
-$D(t) = 490(t-1) \\\ t \\\ siendo \\\ horas$
+$D_{B}(t) = 490(t-1) \\\ siendo \\\ t \geq 1$
 
 $t - 1$ viene a que el aeroplano _B_ despega después de una hora
 
@@ -39,8 +39,9 @@ $(650t)^2 + (490(t - 1))^2 = c^2$
 
 Sacamos raíz cuadrada a ambos lados de la igualdad 
 
-$\sqrt{ (650x)^2 + (490(x - 1))^2 } = c$
+$\sqrt{ (650t)^2 + (490(t - 1))^2 } = c$
 
 Ahora bien podemos representar $c$ como $D(t)$ siendo esta la distancia entre los aviones al pasar de las horas
 
-$D(t) =\sqrt{ (650x)^2 + (490(x - 1))^2 }$
+$D(t) =\sqrt{ (650t)^2 + (490(t - 1))^2 }$
+
