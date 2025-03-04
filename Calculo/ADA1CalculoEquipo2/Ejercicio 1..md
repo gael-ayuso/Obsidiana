@@ -28,11 +28,15 @@ Operamos
 
 $\frac{1}{\left( \frac{1}{2x} \right)}\div \frac{1}{\left( \frac{2x}{9y} \right)}$
 
-Podemos definir 1 como$\frac{1}{}$
+Podemos definir 1 como  $\frac{1}{1}$
+
+$\frac{\frac{1}{1}}{\frac{1}{2x}}\div \frac{\frac{1}{1}}{\frac{2x}{9y}}$
 
 Aplicamos la siguiente propiedad de la division 
 
 $Si \\\ a\neq 0,c \neq 0, d \neq 0 \\\ entonces \frac{\frac{a}{b}}{\frac{c}{d}} = \frac{ad}{bc}$
 
-$\left( 1 \cdot \left( \frac{1}{2x} \right)^{-1} \right) \div \left( 1 \cdot\left( \frac{2x}{9y} \right)^{-1} \right)$
+$\frac{2x}{1} \div \frac{9y}{2x}$
+
+
 
