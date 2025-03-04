@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Calculo/ADA1CalculoEquipo2/Ejercicio 1..md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "34b091cabf20953a",
