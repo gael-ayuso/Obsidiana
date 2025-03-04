@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculo/ADA calculo.md",
+                "file": "Calculo/ADA1CalculoEquipo2/Ejercicio 1..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADA calculo"
+              "title": "Ejercicio 1."
             }
           }
         ],
@@ -198,9 +198,9 @@
   },
   "active": "62e4bd5d67b11263",
   "lastOpenFiles": [
+    "Calculo/ADA calculo.md",
     "Calculo/ADA1CalculoEquipo2/Ejercicio 1..md",
     "Untitled.md",
-    "Calculo/ADA calculo.md",
     "Calculo/ADA1CalculoEquipo2",
     "Jetpack Compose.md",
     "Calculo/Untitled.md",
