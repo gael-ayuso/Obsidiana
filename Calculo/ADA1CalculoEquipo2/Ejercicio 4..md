@@ -2,10 +2,11 @@
 
 Partiendo al medio día, el aeroplano _A_ vuela hacia el norte a la velocidad constante de 650 Km/h. Una hora mas tarde, el aeroplano _B_ vuela hacia el este a la velocidad constante de 490 Km/h. Despreciando la curvatura de la Tierra y suponiendo que vuelan a la misma altura, encuentre una formula para $D(t)$, la distancia entre los dos aviones $t$ horas después del medio día. 
 
-Sabemos por ele enunciado que el aeroplano _A_ recorre 650 km en una hora. Por lo que podemos representar la distancia recorrida del aeroplano de la siguiente manera:
+Sabemos por el enunciado que el aeroplano _A_ recorre 650 km en una hora. Por lo que podemos representar la distancia recorrida del aeroplano de la siguiente manera:
 
-$$
+$D(t) = 650t \\\ siendo \\\ t \\\ horas$
 
+Ahora por el otro lado sabemos que el aeroplano recorre 490 km en un h
 
 ```tikz 
 \usepackage{tikz-cd} \begin{document} \begin{tikzcd}     T     \arrow[drr, bend left, "x"]     \arrow[ddr, bend right, "y"]     \arrow[dr, dotted, "{(x,y)}" description] & & \\     K & X \times_Z Y \arrow[r, "p"] \arrow[d, "q"]     & X \arrow[d, "f"] \\     & Y \arrow[r, "g"]     & Z \end{tikzcd} \quad \quad \begin{tikzcd}[row sep=2.5em] A' \arrow[rr,"f'"] \arrow[dr,swap,"a"] \arrow[dd,swap,"g'"] &&   B' \arrow[dd,swap,"h'" near start] \arrow[dr,"b"] \\ & A \arrow[rr,crossing over,"f" near start] &&   B \arrow[dd,"h"] \\ C' \arrow[rr,"k'" near end] \arrow[dr,swap,"c"] && D' \arrow[dr,swap,"d"] \\ & C \arrow[rr,"k"] \arrow[uu,<-,crossing over,"g" near end]&& D \end{tikzcd} \end{document} ```
