@@ -29,7 +29,7 @@ $\frac{1}{\left( \frac{\frac{1}{2x}}{3x}\right)} \div \frac{1}{\left( \frac{2x}{
 
 Podemos definir 1 como  $\frac{1}{1}$
 
-$\frac{\frac{1}{1}}{\frac{1}{2x}}\div \frac{\frac{1}{1}}{\frac{2x}{9y}}$
+$\frac{1}{\frac{\frac{1}{2x}}{3x}}\div \frac{\frac{1}{1}}{\frac{2x}{9y}}$
 
 Aplicamos la siguiente propiedad de la division 
 
