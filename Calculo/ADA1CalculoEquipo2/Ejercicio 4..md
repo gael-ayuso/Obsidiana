@@ -24,3 +24,5 @@ y en dos horas el aeroplano _A_ habrá recorrido 1300 km, y el aeroplano _B_ 490
 \end{document}
 ```
 
+$(1300)^2 + (490)^2 = c^2$
+$$
