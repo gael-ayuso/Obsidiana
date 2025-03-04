@@ -39,15 +39,16 @@ $\frac{1}{\left( \frac{4}{9x^4} \right)^{\frac{1}{2}}} \div \frac{1}{\left( \fra
 
 Distribuimos los exponentes en las fracciones 
 
-$\frac{1}{\left( \frac{\sqrt{ 4}}{\sqrt{  }} \right)}\div \frac{1}{\left( \frac{\sqrt[3]{8x^{3}}}{\sqrt[3]{  27y^{3}}} \right)}$
+$\frac{1}{\left( \frac{\sqrt{ 4}}{\sqrt{ 9x^4 }} \right)}\div \frac{1}{\left( \frac{\sqrt[3]{8x^{3}}}{\sqrt[3]{  27y^{3}}} \right)}$
 
 Operamos
 
-$\frac{1}{\left( \frac{\frac{1}{2x}}{3x}\right)} \div \frac{1}{\left( \frac{2x}{9y} \right)}$
+
+$\frac{1}{\left( \frac{2}{3x^2}\right)} \div \frac{1}{\left( \frac{2x}{9y} \right)}$
 
 Podemos definir 1 como  $\frac{1}{1}$
 
-$\frac{1}{\frac{\frac{1}{2x}}{3x}}\div \frac{\frac{1}{1}}{\frac{2x}{9y}}$
+$\frac{1}{\frac{2}{3x^2}}\div \frac{\frac{1}{1}}{\frac{2x}{9y}}$
 
 Aplicamos la siguiente propiedad de la division 
 
