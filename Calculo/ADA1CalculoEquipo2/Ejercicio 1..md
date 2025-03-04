@@ -60,21 +60,19 @@ Aplicamos el neutro multiplicativo
 
 $\frac{3x^2}{2} \div \frac{3y}{2x}$
 
-Reescribimos $\frac{2x}{1} \div \frac{9y}{2x}$ como $\frac{\frac{2x}{1}}{\frac{9y}{2x}}$
+Reescribimos $\frac{2x}{1} \div \frac{3y}{2x}$ como $\frac{\frac{3x^2}{2}}{\frac{3y}{2x}}$
 
 Aplicamos nuevamente la propiedad de la division 
 
 $Si \\\ a\neq 0,c \neq 0, d \neq 0 \\\ entonces \frac{\frac{a}{b}}{\frac{c}{d}} = \frac{ad}{bc}$
 
-$\frac{2x \cdot 2x}{1 \cdot 9y}$
+$\frac{3x^2 \cdot 2x}{2 \cdot 3y}$
 
-Aplicamos el neutro multiplicativo
+Operamos en el numerador y denominador
 
-$\frac{2x \cdot 2x}{9y}$
+$\frac{6x^3}{6y}$
 
-Operamos en el numerador
-
-$\frac{4x^2}{9y}$
+Factor común del diviso 
 
 #### Resultado final 
 
