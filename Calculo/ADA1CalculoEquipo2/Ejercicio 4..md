@@ -10,13 +10,13 @@ Ahora por el otro lado sabemos que el aeroplano _B_ recorre 490 km en un hora, s
 
 $D(t) = 490(t-1) \\\ t \\\ siendo \\\ horas$
 
-$t - 1$ viene a que el aeroplano _B_ despega despues de una hora
+$t - 1$ viene a que el aeroplano _B_ despega después de una hora
+
+Ahora debemos aplicar el Teorema de Pitágoras $a^2 + b^2 = c^2$ siendo $a = 650t$ y $b = 490()$
 
 
 
 
-```tikz 
-\usepackage{tikz-cd} \begin{document} \begin{tikzcd}     T     \arrow[drr, bend left, "x"]     \arrow[ddr, bend right, "y"]     \arrow[dr, dotted, "{(x,y)}" description] & & \\     K & X \times_Z Y \arrow[r, "p"] \arrow[d, "q"]     & X \arrow[d, "f"] \\     & Y \arrow[r, "g"]     & Z \end{tikzcd} \quad \quad \begin{tikzcd}[row sep=2.5em] A' \arrow[rr,"f'"] \arrow[dr,swap,"a"] \arrow[dd,swap,"g'"] &&   B' \arrow[dd,swap,"h'" near start] \arrow[dr,"b"] \\ & A \arrow[rr,crossing over,"f" near start] &&   B \arrow[dd,"h"] \\ C' \arrow[rr,"k'" near end] \arrow[dr,swap,"c"] && D' \arrow[dr,swap,"d"] \\ & C \arrow[rr,"k"] \arrow[uu,<-,crossing over,"g" near end]&& D \end{tikzcd} \end{document} ```
 ```tikz
 \usepackage{tikz-cd}
 \begin{document}
@@ -31,6 +31,9 @@ $t - 1$ viene a que el aeroplano _B_ despega despues de una hora
 	\end{tikzpicture}
 \end{document}
 ```
+
+
+
 
 $(650x)^2 + (490(x - 1))^2 = c^2$
 
