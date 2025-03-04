@@ -22,4 +22,7 @@ $\frac{1}{\left( \frac{1}{4x^{2}} \right)^{\frac{1}{2}}} \div \frac{1}{\left( \f
 
 Distribuimos los exponentes en las fracciones 
 
-$\frac{1}{\left( \frac{\sqrt{ 1 } }{\sqrt{4x^{2}}} \right)}\div \frac{1}{\left( \frac{8x^{3}}{27y^{2}} \right)}$
+$\frac{1}{\left( \frac{\sqrt{ 1 } }{\sqrt{4x^{2}}} \right)}\div \frac{1}{\left( \frac{\sqrt[3]{8x^{3}}}{\sqrt[3]{  27y^{2}}} \right)}$
+
+Operamos
+$\frac{1}{\left( \frac{1}{\sqrt{2x} \right)}\div \frac{1}{\left( \frac{\sqrt[3]{8x^{3}}}{\sqrt[3]{  27y^{2}}} \right)}$
