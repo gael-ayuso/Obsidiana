@@ -19,7 +19,7 @@ y en dos horas el aeroplano _A_ habrá recorrido 1300 km, y el aeroplano _B_ 490
 		  -- cycle;
 		\draw[<->] (0,-0.5) -- (-4, -0.5) node[midway, below] {b};
 		\draw[<->] (-4.5, 0) -- (-4.5, 8) node[midway, left] {a};
-		\draw[<->] (0.5, 0) -- (-4, 8.5) node[midway, above] {c};
+		\draw[<->] (0.5, 0) -- (-4, 8.9) node[midway, above] {c};
 	\end{tikzpicture}
 \end{document}
 ```
@@ -28,4 +28,6 @@ $(650x)^2 + (490(x - 1))^2 = c^2$
 
 $(422500x^2) + (490x - 490)^2 = c^2$
 
-$(422500x^2) + (240100x^2 - 480200x + )$
+$(422500x^2) + (240100x^2 - 480200x + 240100)$
+
+$$
