@@ -12,12 +12,13 @@ y en dos horas el aeroplano _A_ habra recorrido 1300 km, y el aeroplano _B_ 490k
 ```tikz
 \usepackage{tikz-cd}
 \begin{document}
-\begin{tikzpicture}
-\draw (0,0) node[anchor=north]{$A$}
-  -- (-4,0) node[anchor=north]{$C$}
-  -- (-4,4) node[anchor=south]{$B$}
-  -- cycle;
-\draw[<-->] (0,-0.5) -- (-4, -0.5) node[midway, below]{4cm};
-\end{tikzpicture}
+	\begin{tikzpicture}
+		\draw (0,0) node[anchor=north]{$A$}
+		  -- (-4,0) node[anchor=north]{$C$}
+		  -- (-4,4) node[anchor=south]{$B$}
+		  -- cycle;
+		\draw[<->] (0,-0.5) -- (-4, -0.5) node[midway, below] {4cm};
+		\draw[<->] (-0.5, 0)
+	\end{tikzpicture}
 \end{document}
 ```
