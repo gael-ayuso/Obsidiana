@@ -27,3 +27,5 @@ $\frac{1}{\left( \frac{\sqrt{ 1 } }{\sqrt{4x^{2}}} \right)}\div \frac{1}{\left( 
 Operamos
 
 $\frac{1}{\left( \frac{1}{2x} \right)}\div \frac{1}{\left( \frac{2x}{9y} \right)}$
+
+
