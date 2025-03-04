@@ -10,7 +10,7 @@ $\left( \frac{4x^{-2}}{9x^{2}} \right)^{\frac{-1}{2}} \div \left( \frac{8x^{3}}{
 
 Primero que nada debemos despejar los exponentes negativos que se encuentran dentro de los parentesis. $\left( \frac{4x^{-2}}{9x^{2}} \right)$
 
-Aplicamos el inverso multiplicativo de $4x^{-2}$ el cual es $\frac{1}{4x^{2}}$
+Aplicamos el inverso multiplicativo de $4x^{-2}$ es igual a $\frac{1}{4x^{2}}$ por la propiedad del reciproco
 
 Reemplazamos en la operacion original
 
@@ -50,6 +50,6 @@ $Si \\\ a\neq 0,c \neq 0, d \neq 0 \\\ entonces \frac{\frac{a}{b}}{\frac{c}{d}} 
 
 $\frac{2x \cdot 2x}{1 \cdot 9y}$
 
-Operamos
+Operamos en el nu
 
 $\frac{4x^2}{9y}$
