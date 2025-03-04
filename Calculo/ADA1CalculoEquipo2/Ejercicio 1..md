@@ -30,3 +30,5 @@ $\frac{1}{\left( \frac{1}{2x} \right)}\div \frac{1}{\left( \frac{2x}{9y} \right)
 
 Aplicamos la siguiente propiedad de la division $Si \\\ a\neq 0, \\\ entonces \frac{b}{a} = (b)(a^{-1})$
 
+$\left( 1 \cdot \left( \frac{1}{2x} \right)^{-1} \right) \div \left( 1 \cdot\left( \frac{2x}{9y} \right)^{-1} \right)$
+
