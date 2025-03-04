@@ -18,11 +18,12 @@ y en dos horas el aeroplano _A_ habrá recorrido 1300 km, y el aeroplano _B_ 490
 		  -- (-4,8) node[anchor=south]{$B$}
 		  -- cycle;
 		\draw[<->] (0,-0.5) -- (-4, -0.5) node[midway, below] {b};
-		\draw[<->] (-4.5, 0) -- (-4.5, 4) node[midway, left] {a};
+		\draw[<->] (-4.5, 0) -- (-4.5, 8) node[midway, left] {a};
 		\draw[<->] (0.5, 0) -- (-4, 8.5) node[midway, above] {c};
 	\end{tikzpicture}
 \end{document}
 ```
 
-$(1300)^2 + (490)^2 = c^2$
-$1690000 + 240100 = c^2$
+$(650x)^2 + (490(x - 1))^2 = c^2$
+
+$
