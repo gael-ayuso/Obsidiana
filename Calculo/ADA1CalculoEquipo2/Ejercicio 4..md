@@ -32,11 +32,15 @@ Para ejemplificar lo descrito tenemos la siguiente figura.
 \end{document}
 ```
 
-Reemplazamos los valores en la ecuacion.
+Reemplazamos los valores en la ecuación.
 
-$(650x)^2 + (490(x - 1))^2 = c^2$
+$(650t)^2 + (490(t - 1))^2 = c^2$
 
 
-Elevamos ambos lados de la igualdad a $^{\frac{1}{2}}$
+Sacamos raíz cuadrada a ambos lados de la igualdad 
 
 $\sqrt{ (650x)^2 + (490(x - 1))^2 } = c$
+
+Ahora bien podemos representar $c$ como $D(t)$ siendo esta la distancia entre los aviones al pasar de las horas
+
+$D(t) =\sqrt{ (650x)^2 + (490(x - 1))^2 }$
