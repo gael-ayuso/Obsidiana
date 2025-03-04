@@ -7,5 +7,16 @@ Suponiendo que ambos aeroplanos despegan del mismo lugar podemos decir que cuand
 
 y en dos horas el aeroplano _A_ habra recorrido 1300 km, y el aeroplano _B_ 490km con esta informacion podemos aplicar el teorema de pitagoras $a^2 + b^2 = c^2$ siendo $a = 1300$ y $b = 490$
 
-$$
+```tikz
+\documentclass{article}
+\usepackage{tikz}
+\begin{document}
+\begin{tikzpicture}
+\draw[gray, thick] (-1,2) -- (2,-4);
+\draw[gray, thick] (-1,-1) -- (2,2);
+\filldraw[black] (0,0) circle (2pt) node[anchor=west]{Intersection point};
+\end{tikzpicture}
+\end{document}
+
+```
 
