@@ -26,15 +26,20 @@ $Si \\\ a\neq 0,c \neq 0, d \neq 0 \\\ entonces \frac{\frac{a}{b}}{\frac{c}{d}} 
 $\left( \frac{4 \cdot 1}{9x^2 \cdot x^2} \right)^{\frac{-1}{2}} \div \left( \frac{8x^{3}}{27y^{3}} \right)^{\frac{-1}{3}}$ 
 
 Aplicamos el neutro multiplicativo
-$\left( \frac{4 \cdot 1}{9x^2 \cdot x^2} \right)^{\frac{-1}{2}} \div \left( \frac{8x^{3}}{27y^{3}} \right)^{\frac{-1}{3}}$ 
+$\left( \frac{4}{9x^2 \cdot x^2} \right)^{\frac{-1}{2}} \div \left( \frac{8x^{3}}{27y^{3}} \right)^{\frac{-1}{3}}$ 
+
+Operamos
+
+$\left( \frac{4}{9x^4} \right)^{\frac{-1}{2}} \div \left( \frac{8x^{3}}{27y^{3}} \right)^{\frac{-1}{3}}$ 
+
 
 Aplicamos nuevamente el inverso multiplicativo a ambos lados
 
-$\frac{1}{\left( \frac{\frac{1}{4x^{2}}}{9x^2} \right)^{\frac{1}{2}}} \div \frac{1}{\left( \frac{8x^{3}}{27y^{3}} \right)^{\frac{1}{3}}}$ 
+$\frac{1}{\left( \frac{4}{9x^4} \right)^{\frac{1}{2}}} \div \frac{1}{\left( \frac{8x^{3}}{27y^{3}} \right)^{\frac{1}{3}}}$ 
 
 Distribuimos los exponentes en las fracciones 
 
-$\frac{1}{\left( \frac{\frac{\sqrt{ 1 }}{\sqrt{4x^{2}}}}{\sqrt{9x^2}}\right)}\div \frac{1}{\left( \frac{\sqrt[3]{8x^{3}}}{\sqrt[3]{  27y^{3}}} \right)}$
+$\frac{1}{\left( \frac{\sqrt{ 4}}{\sqrt{  }} \right)}\div \frac{1}{\left( \frac{\sqrt[3]{8x^{3}}}{\sqrt[3]{  27y^{3}}} \right)}$
 
 Operamos
 
