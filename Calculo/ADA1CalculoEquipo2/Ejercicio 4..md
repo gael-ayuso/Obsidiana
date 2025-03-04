@@ -12,9 +12,9 @@ $D(t) = 490(t-1) \\\ t \\\ siendo \\\ horas$
 
 $t - 1$ viene a que el aeroplano _B_ despega después de una hora
 
-Ahora debemos aplicar el Teorema de Pitágoras $a^2 + b^2 = c^2$ siendo $a = 650t$ y $b = 490()$
+Ahora debemos aplicar el Teorema de Pitágoras $a^2 + b^2 = c^2$ siendo $a = 650t$ y $b = 490(t-1)$. 
 
-
+Para ejemplificar lo descrito tenemos la siguiente figura.
 
 
 ```tikz
@@ -32,10 +32,11 @@ Ahora debemos aplicar el Teorema de Pitágoras $a^2 + b^2 = c^2$ siendo $a = 650
 \end{document}
 ```
 
-
-
+Reemplazamos los valores en la ecuacion.
 
 $(650x)^2 + (490(x - 1))^2 = c^2$
 
+
+Elevamos ambos lados de la igualdad a $^{\frac{1}{2}}$
 
 $\sqrt{ (650x)^2 + (490(x - 1))^2 } = c$
