@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPencil",
       "LiSheet",
       "LiCalculator",
       "LiCode",
-      "LiImage",
-      "LiAward"
+      "LiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "Imagenes": "LiImage",
   "Programacion Estructurada": "LiCode",
   "Calculo": "LiCalculator",
-  "Algebra Superior": "LiSheet"
+  "Algebra Superior": "LiSheet",
+  "Matematicas Discretas": "LiPencil"
 }
