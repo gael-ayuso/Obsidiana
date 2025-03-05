@@ -1,6 +1,11 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Catppuccin",
   "interfaceFontFamily": "CaskaydiaCove Nerd Font Mono",
   "textFontFamily": "JetBrainsMono Nerd Font",
-  "monospaceFontFamily": "Consolas"
+  "monospaceFontFamily": "Consolas",
+  "enabledCssSnippets": [
+    "anuppuccin",
+    "hide-top-bar",
+    "obsidian"
+  ]
 }
