@@ -9,4 +9,6 @@
 		867 mod 7 = 6
 		Jueves
 2. Encuentra la factorizacion en primos del factroial de 12, es decir 12!
-	Pr
+	Primero descomponemos el factorial de 12 como:
+	1 2 3 4 5 6 7 8 9 10 11 12
+	1 2 3 2 2 5 2 3 7 2 2 2 3 3 5 2 11 2 2 3
