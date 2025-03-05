@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculo/ADA1CalculoEquipo2/Ejercicio 1..md",
+                "file": "Calculo/ADA1CalculoEquipo2/Ejercicio 4..md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ejercicio 1."
+              "title": "Ejercicio 4."
             }
           }
         ],
@@ -195,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "beba7da4bfd18f3b",
+  "active": "e31d2c30f7a963a7",
   "lastOpenFiles": [
-    "Calculo/ADA1CalculoEquipo2/Ejercicio 4..md",
     "Calculo/ADA1CalculoEquipo2/Ejercicio 1..md",
+    "Calculo/ADA1CalculoEquipo2/Ejercicio 4..md",
     "To do.md",
     "Programacion Estructurada/C Cheatesheet.md",
     "Programacion Estructurada",
