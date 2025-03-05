@@ -25,14 +25,14 @@
             "id": "beba7da4bfd18f3b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Calculo/ADA1CalculoEquipo2/Ejercicio 4..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Ejercicio 4."
             }
           }
         ],
@@ -195,8 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14872fa67c997561",
+  "active": "beba7da4bfd18f3b",
   "lastOpenFiles": [
+    "Calculo/ADA1CalculoEquipo2/Ejercicio 1..md",
+    "Calculo/ADA1CalculoEquipo2/Ejercicio 4..md",
     "To do.md",
     "Programacion Estructurada/C Cheatesheet.md",
     "Programacion Estructurada",
@@ -212,9 +214,7 @@
     "Imagenes/Pasted image 20250214131442.png",
     "Imagenes/Pasted image 20250119144235.png",
     "Imagenes",
-    "Calculo/ADA1CalculoEquipo2/Ejercicio 4..md",
     "Calculo/ADA1CalculoEquipo2/Ejercicio 4..docx",
-    "Calculo/ADA1CalculoEquipo2/Ejercicio 1..md",
     "Calculo/Investigacion Calculo.md",
     "Calculo/Lista de símbolos calculo.md",
     "Calculo/Investigacion calculo febrero.md",
