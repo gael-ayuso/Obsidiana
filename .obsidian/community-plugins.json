@@ -2,5 +2,8 @@
   "obsidian-git",
   "obsidian-icon-folder",
   "table-editor-obsidian",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-tikzjax",
+  "obsidian-pandoc",
+  "obsidian-enhancing-export"
 ]
