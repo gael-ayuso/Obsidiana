@@ -15,4 +15,4 @@
  - [ ] hacer ada 1 calculo (Teams)
  - [ ] Hacer practica de programacion matematicas discretas
  - [ ] algebra hacer apuntes 
- - [ ] 
+	 - [ ]  
