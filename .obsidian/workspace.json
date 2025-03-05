@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "1c42fd8f51e76039",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
             "id": "62e4bd5d67b11263",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "ADA calculo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +195,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c42fd8f51e76039",
+  "active": "7fbca50295b7ec15",
   "lastOpenFiles": [
     "Calculo/ADA1CalculoEquipo2/Ejercicio 1..md",
     "Calculo/ADA1CalculoEquipo2/Ejercicio 4..md",
