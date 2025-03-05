@@ -3,4 +3,6 @@
 	a) 745 días antes del 3 de febrero de 2022
 		Sabemos que el 3 de febrero de 2022 era jueves
 		745 mod 7 = 3
-		Lunes 31 de enero 
+		Lunes 
+	b) 867 días despues del 17 de marzo de 2023
+		Sabemos que el 17 de marzo fue  
