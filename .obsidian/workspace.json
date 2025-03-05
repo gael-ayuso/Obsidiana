@@ -29,7 +29,7 @@
               "state": {
                 "file": "Calculo/ADA1CalculoEquipo2/Ejercicio 4..md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Ejercicio 4."
@@ -195,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e31d2c30f7a963a7",
+  "active": "beba7da4bfd18f3b",
   "lastOpenFiles": [
     "Calculo/ADA1CalculoEquipo2/Ejercicio 1..md",
     "Calculo/ADA1CalculoEquipo2/Ejercicio 4..md",
