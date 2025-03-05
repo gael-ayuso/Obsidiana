@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "Consolas"
 }
