@@ -18,4 +18,4 @@
 	mcm = $2^3 \cdot 3^2 \cdot 5 \cdot 7^2 \cdot 97$
 4. Si el producto de dos enteros es $(2^7)(3^8)(5^3)(7^4)$ y su máximo común divisor es $(2^3)(3^4)(5)$, determina cual es su mínimo común múltiplo.
 
-5. Expresa el maximo comun divisor de 124 y 323 como una combinacion lineal de dich
+5. Expresa el maximo comun divisor de 124 y 323 como una combinacion lineal de dichos enteros
