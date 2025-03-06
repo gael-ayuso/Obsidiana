@@ -13,5 +13,5 @@
 	1 2 3 4 5 6 7 8 9 10 11 12
 	1 2 3 2 2 5 2 3 7 2 2 2 3 3 5 2 11 2 2 3
 	1 2^10 3^5 5^2 7 11 
-3. Obten los factores primos del siguiente conjunto y calcula su minimo comun multiplo y el maximo comun divisor: 147, 291 y 360
+3. Obtén los factores primos del siguiente conjunto y calcula su minimo comun múltiplo y el maximo comun divisor: 147, 291 y 360
 	
